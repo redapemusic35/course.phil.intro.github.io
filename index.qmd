@@ -27,7 +27,7 @@ This course will begins with an informal system of logic and proceeds to classic
 
 # 📑 Aesthetics
 
-<a href="2025-aesthetics/index.qmd">
+<a href="2026_sc-aesthetics/index.qmd">
     <button class="button-61">Aesthetics, Fall 2025</button>
 </a>
 
