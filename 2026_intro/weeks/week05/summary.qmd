@@ -1,29 +1,76 @@
+# Eros
 
-### No Harmony
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JXi79RGTXiA?si=tsNd4lk8aDPTKRyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VvlTwSWyqUM?si=VuW80gvi99pQrbc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PbFx6FRxJtg?si=psRYTxmtbiBA_hmV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+::: {.notes}
+
+Prologue: Apollodorus to a companion (unclear who it is):
+
+Tells a story about being hailed by Aristademus. Aristedemus wants to know about a banquet Appollodorus attended.
+
+:::
+
+---
+
+# Imitation and Aesthetic Judgment
+
+Speeches in honor of Eros.
+
+* Phaedrus
+
+* Pausinias
+
+* Eryximachus
+
+* Aristophanes
+
+* Agathon
+
+* Socrates
+
+* Alcibiades
+
+## Phaedrus
+
+Eros is a god without parents and gives the greatest goods
+
+* The greatest good is a worthy lover and a beloved
+
+* Because the beloved makes the lover ambitious.
+
+* A beautiful life is only characterized by what the beloved provides to the lover.
+
+## Pausinias
+
+* Eros is two because without Aphrodite, there is no Eros.
+
+* Vulgar and Sanctified Eros
+
+* Because all actions are neither beautiful or ugly
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Kt_Ym-SEF8?si=uI93aQ9QcrSymejy&amp;start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### No Speech
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3d7cKCyssA?si=lbvffxYTwdi5ayYu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-
-### What about this?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pPd_VpXzfeQ?si=cpboQ6IbOXa-Dkh5&amp;start=34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Or this?
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ov5NCSzG1Tw?si=mcaBhLn2SQKuyQre&amp;start=203" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Art Criticism
-
-* What is Aristotle's response to Plato's various critiques?
+## What is Aristotle's response to Plato's various critiques?
 
   * Religious
 
@@ -59,7 +106,7 @@
 
 ::: {.column width="50%" font-size=".5em"}
 
-* how do peple understand and appreciate them
+* how do people understand and appreciate them
 
 * What roles do they play in our collective historical and collective histories?
 
@@ -236,19 +283,9 @@ Is epic poetry denoted by 1, and 2, but not 3?
 
 | | | Harmony | Rhythm | Language |
 |---|---|---|---|---|
-|  |  |  |  |  |
-| Harmony|  | x |  | |
-| Rhythm | | | | x |
-| Language |  |  | | |
+|  |  | Imitative Piping | Dance | Speech, Rhetoric |
+| Harmony| Imitative Piping |  | flute-playing | |
+| Rhythm | Dance | | | |
+| Language | Speech, Rhetoric |  | | |
 
-Can you check off the boxes that correspond to the different art forms?
 
-* Imitative Piping
-
-* Dance
-
-* Speech, Rhetoric
-
-* Speech
-
-* Other forms of rhetoric

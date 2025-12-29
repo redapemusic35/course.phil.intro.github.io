@@ -1,4 +1,29 @@
-# Saint Bonaventure
+---
+subtitle: "PHIL343A -- Aesthetics"
+title: "<font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font>"
+author: Prof. [Reynolds](#)
+institute: '[Stetson University](#)'
+date: 02 September 2026
+date-meta: 14 March 2023
+date-format: "DD MMM YYYY"
+toc: false
+toc-depth: 1
+toc-title: "The Art of Imitation:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs:
+    theme: moon
+    fig-responsive: true
+    slide-number: true
+    incremental: true
+    mouse-wheel: false
+    auto-play-media: true
+    preview-links: auto
+    logo: /figures/icons/course_favicon.png
+    css: /css/styles_slides.css
+    footer: 'PHIL343A -- Aesthetics Aristotle'
+---
 
 As the following quote shows, Bonaventure was not only committed to theology, but philosophy which according to him, was to better understand the beliefs he held. It is important to note, that philosophy was important even for what he considered matters of faith, which at times, is thought to be immune from the critical reflections that philosophy enables.
 
@@ -14,28 +39,6 @@ There are objects we access through our senses. Importantly for Bonaventure, the
 
 > The world as it is revealed to us through the senses provides the means for our re-entering ourselves and ascending to higher things. Furthermore, the senses themselves are equally signs of higher things.
 
-What is important about works of art, whether involving the manipulation of materials such as painting or sculpting, or of the manipulation of words such as speech, is that these act on our *spiritual senses*. What is created, is a likeness of that object through our faculty of reason.
-
->  Each sensible object generates a likeness of itself in the medium through which it is perceived, and that likeness in turn generates another likeness successively in the sense organ, causing the sense power to apprehend the sensible object.
-
-This is a common understanding, notably evoking a common debate among philosophers. The debate between empiricists and rationalists, is whether, and to what degree do we have a connection to the outside world. For instance, consider this reflection by the philosopher Bertrand Russell:
-
-> To the eye it is oblong, brown and shiny, to the touch it is smooth and cool and hard; when I tap it, it gives out a wooden sound. Anyone else who sees and feels and hears the table will agree with this description, so that it might seem that no difficulty would arise.^[@russ12, 8]
-
-Russell then concludes that all truly have access to is not the table itself, but instead a collection of unique and disconnected perceptions. We see the shape, we touch coolness, we hear the hollow sound, but we do not perceive the table..
-
-> it becomes evident that the real table, if there is one, is not the same as what we immediately experience by sight or touch or hearing.^[@russ12, 11]
-
-For Bonaventure, the resulting object as created by God, is perceived by us through God's divine light. In other words, when we perceive objects, and delight in them as created objects, we join in union with God, and are able to perceive his creation.
-
 >  exercising their powers of intellect and will, intellectual creatures discover the highest and most perfect object of their powers in the Divine Source of their being, since God is the First or Highest Truth and the First or Chief Good. Accordingly, intellectual creatures have God as their ultimate object, whereas all creatures have God as their Cause. Consequently, intellectual creatures show themselves to be “images” and “likenesses” of God, while they show that all creatures are “shadows” and “vestiges” of God.
 
-All at once then, Bonaventure's project is epistmelogical and metaphysical. It is meant to explain how we know things, and what the nature of those things are.
-
 > The resolution of all our items of simple apprehension into the concept of being is metaphysically and epistemologically crucial: metaphysically, it opens up a route of argumentation that leads to the existence of God; epistemologically, such a resolution means that behind all, even the most determinate and specific, conceptions of things lies a transcendental awareness of being that informs all of our knowledge.
-
-As such, this is two parts of Bonaventure's project, but there is a third part as well. The moral project has to do with how we behave. For Bonaventure, this is also guided by the *light of God's divine illumination*. Here, it is important to focus on the non-physical aspects of our existence, namely our relationships with one another.
-
-How do we develop this?
-
-> Therefore, considering the illumination of mechanical skill as regards the production of the work, we shall see therein the Word begotten and made incarnate, that is, the Divinity and the Humanity and the integrity of all faith.
