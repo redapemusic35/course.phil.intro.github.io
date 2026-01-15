@@ -1,5 +1,5 @@
 ---
-title: "PHIL 101B (5691) - Introduction to Philosophy"
+title: "PHIL 101B (8012) - Introduction to Philosophy"
 subtitle: "Academic Year: 2025/26"
 format: html
 ---
@@ -42,8 +42,8 @@ Office Hours:
 Introduction to Philosophy: Value, Meaning, and Humanity's Place in the Modern World
 
 Times: 10:30-11:45
-Days: Mons and Weds or Tues Thurs
-Where: Davis Hall 209
+Days: Tues and Thurs
+Where: Sage Hall 242
 
 ### Required Texts:
 
@@ -69,7 +69,7 @@ Success: Active participation, timely submissions, and attendance are key.
 
 [Download the Course Rubric Here](./weeks/rubric.qmd)
 
-***Weekly Reflections:*** These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.
+***Weekly Reflections (32 points):*** These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.
 
 ***Reflective Analysis 1 & 2 (160 points):*** Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.
 
@@ -143,67 +143,67 @@ Grading Scale (equal increments of 8 points):
 
 ***Weeklies Due Every Monday Starting Jan 19***
 
-Thu Jan 14, handouts
+Thu Jan 15, handouts
 
-Mon Jan 19 MLK Day, no classes
+Tues Jan 20 Chapter 2 of Reality+: Simulation Hypothesis
 
-Wed Jan 21, Chapter 2, Simulation Hypothesis
+Thus Jan 22, Chapter 3, Knowledge
 
-Mon Jan 26, Chapter 3, Knowledge
+Tues Jan 27, Chapter 4, The external world, ch. 4
 
-Wed Jan 28, The external world, ch. 4
+Thus Jan 29, The external world, ch. 4
 
-Mon Feb 2, ch. 5, Possible realities, bostrom and Moravec
+Tues Feb 3, ch. 5, Possible realities, bostrom and Moravec
 
-Wed Feb 4, ch. 6, What is Reality?
+Thus Feb 5, ch. 6, What is Reality?
 
-Mon Fed 9, ch. 7, Is God a hacker in the universe up?
+Tues Fed 10, ch. 7, Is God a hacker in the universe up?
 
-Wed Fed 11, ch. 8 Information, 2nd DND Adventure, Student Led
+Thus Fed 12, ch. 8 Information, 2nd DND Adventure, Student Led
 
-Mon Feb 16, ch. 9, On Bits
+Tues Feb 17, ch. 9, On Bits
 
-Wed Feb 18, ch. 10, Reality and Virtual Reality
+Thus Feb 19, ch. 10, Reality and Virtual Reality
 
-Mon Feb 23, ch. 11, Illusion Machines
+Tues Feb 24, ch. 11, Illusion Machines
 
-Wed Feb 25, Quiz 1
+Thus Feb 26, Quiz 1
 
-Mon Mar 02, Spring Break
+Tues Mar 03, Spring Break
 
-Wed Mar 4, Spring Break
+Thus Mar 5, Spring Break
 
-Mon Mar 9, ch. 13 ch. 12, 3rd DND Adventure, Student Led
+Tues Mar 10, ch. 13 ch. 12, 3rd DND Adventure, Student Led
 
-Wed Mar 11, ch. 14, Mind and body Realism inside a virtual universe
+Thus Mar 12, ch. 14, Mind and body Realism inside a virtual universe
 
-Mon Mar 16, ch. 15, 4th DND Adventure, Student Led
+Tues Mar 17, ch. 15, 4th DND Adventure, Student Led
 
-Wed Mar 18, ch. 16, The extended mind hypothsis
+Thus Mar 19, ch. 16, The extended mind hypothsis
 
-Mon Mar 23, ch. 17 Critical Reflection Due
+Tues Mar 24, ch. 17 Critical Reflection Due
 
-Wed Mar 25, ch. 18, Virtual ethics and intentiality
+Thus Mar 26, ch. 18, Virtual ethics and intentiality
 
-Mon Mar 30, ch. 19, Social Ontology inside virtual worlds
+Tues Mar 31, ch. 19, Social Ontology inside virtual worlds
 
-Wed Apr 1, ch. 20, 5th DND Adventure on Sense and Reference, Student Led
+Thus Apr 2, ch. 20, 5th DND Adventure on Sense and Reference, Student Led
 
-Mon Apr 6, ch. 21, Cause and effect inside virtual systems
+Tues Apr 7, ch. 21, Cause and effect inside virtual systems
 
-Wed Apr 8, ch. 22, Mathematical, physical and cultural structualism
+Thus Apr 9, ch. 22, Mathematical, physical and cultural structualism
 
-Mon Apr 13, ch. 23, Virtual Eden?
+Tues Apr 14, ch. 23, Virtual Eden?
 
-Wed Apr 15, ch. 24, Brains in a Vat
+Thus Apr 16, ch. 24, Brains in a Vat
 
-Mon Apr 20, TBD
+Tues Apr 21, TBD
 
-Wed Apr 22, TBD
+Thus Apr 23, TBD
 
-Mon Apr 27, TBD
+Tues Apr 28, TBD
 
-Wed Apr 29, last day of classes, Final Quiz
+Thus Apr 30, last day of classes, Final Quiz
 
 Paper Due on Day of Final Quiz (Submit on Canvas)
 
@@ -347,7 +347,7 @@ See Class Times Below
 
 ::: {style="display:inline-block;width: 28.5%;border-style: dotted;border-width: 1px;border-color: &quot;#fefefe&quot;; margin:1%;padding:1.5%;background-color:#fafafa"}
 
-- 📆 Mondays and Wednesdays
+- 📆 Tues and Thurs
 - ⌚ 10:30am - 11:45am
 
 :::
