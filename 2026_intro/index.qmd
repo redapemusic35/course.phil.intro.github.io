@@ -69,13 +69,13 @@ Success: Active participation, timely submissions, and attendance are key.
 
 [Download the Course Rubric Here](./weeks/rubric.qmd)
 
-***Weekly Reflections:*** Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.
+***Weekly Reflections:*** These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.
 
 ***Reflective Analysis 1 & 2 (160 points):*** Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.
 
 ***Essay 1 & 2 (80 points):*** Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.
 
-***Presentation:*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to gage participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
+***Presentation (96 points):*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to gage participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
 
 Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
 
@@ -215,7 +215,7 @@ Paper Due on Day of Final Quiz (Submit on Canvas)
 
 Your points prove you participated, you get full credit for turning in a complete score card.
 
-### Overall Course Setup
+### Overall DND Setup
 
 - **Group Structure**: By the second week, students form small groups of **5 members** each.
 - **Rotating Dungeon Master (DM) Role**: Every group member gets **one turn** to act as the
