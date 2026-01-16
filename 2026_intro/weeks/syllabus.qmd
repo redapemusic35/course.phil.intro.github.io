@@ -17,7 +17,7 @@ In this course, we will use David Chalmer's book ***Reality+*** to look at quest
 
 ## 💻 Class Groups
 
-- 📆 Mondays and Wednesdays
+- 📆 Tuesdays and Thursdays
 - ⌚ 10:30am - 11:45am
 
 # 🧑🏻‍🏫 Syllabus
@@ -135,71 +135,73 @@ Grading Scale (equal increments of 8 points):
 
 ## Reading Schedule
 
-***Adjust all dates by one for Tuesday Thursday Course***
+***Weeklies Due Every Monday Starting Jan 20***
 
-***Weeklies Due Every Monday Starting Jan 19***
+Thu Jan 15, handouts
 
-Thu Jan 14, handouts
+Tues Jan 20, this this the real life, chapter 1, weekly due every Monday starting today, First DND Adventure Instructor led
 
-Mon Jan 19, this this the real life, chapter 1, weekly due every Monday starting today, First DND Adventure Instructor led
+Thu Jan 15, handouts
 
-Wed Jan 21, Chapter 2, Simulation Hypothesis
+Tues Jan 20 Chapter 2 of Reality+: Simulation Hypothesis
 
-Mon Jan 26, Chapter 3, Knowledge
+Thus Jan 22, Chapter 3, Knowledge
 
-Wed Jan 28, the external world, ch. 4
+Tues Jan 27, Chapter 4, The external world, ch. 4
 
-Mon Feb 2, ch. 5, possibilities
+Thus Jan 29, The external world, ch. 4
 
-Wed Feb 4, ch. 6, What is Reality?
+Tues Feb 3, ch. 5, Possible realities, bostrom and Moravec
 
-Mon Fed 9, ch. 7, Is God a hacker in the universe up?
+Thus Feb 5, ch. 6, What is Reality?
 
-Wed Fed 11, ch. 8 Information, 2nd DND Adventure, Student Led
+Tues Fed 10, ch. 7, Is God a hacker in the universe up?
 
-Mon Feb 16, ch. 9, On Bits
+Thus Fed 12, ch. 8 Information, 2nd DND Adventure, Student Led
 
-Wed Feb 18, ch. 10, VR and R
+Tues Feb 17, ch. 9, On Bits
 
-Mon Feb 23, ch. 11, Illusion Machines
+Thus Feb 19, ch. 10, Reality and Virtual Reality
 
-Wed Feb 25, Quiz 1
+Tues Feb 24, ch. 11, Illusion Machines
 
-Mon Mar 02, Spring Break
+Thus Feb 26, Quiz 1
 
-Wed Mar 4, Spring Break
+Tues Mar 03, Spring Break
 
-Mon Mar 9, ch. 13 ch. 12, 3rd DND Adventure, Student Led,
+Thus Mar 5, Spring Break
 
-Wed Mar 11, ch. 14, Mind and body Realism inside a virtual universe
+Tues Mar 10, ch. 13 ch. 12, 3rd DND Adventure, Student Led
 
-Mon Mar 16, ch. 15, 4th DND Adventure, Student Led
+Thus Mar 12, ch. 14, Mind and body Realism inside a virtual universe
 
-Wed Mar 18, ch. 16, The extended mind
+Tues Mar 17, ch. 15, 4th DND Adventure, Student Led
 
-Mon Mar 23, ch. 17 Critical Reflection Due
+Thus Mar 19, ch. 16, The extended mind hypothsis
 
-Wed Mar 25, ch. 18, Intention: an account of virtually moral conduct
+Tues Mar 24, ch. 17 Critical Reflection Due
 
-Mon Mar 30, ch. 19, Social Ontology inside virtual worlds
+Thus Mar 26, ch. 18, Virtual ethics and intentiality
 
-Wed Apr 1, ch. 20, 5th DND adventure on Sense and Reference, Student Led
+Tues Mar 31, ch. 19, Social Ontology inside virtual worlds
 
-Mon Apr 6, ch. 21, Cause and effect inside virtual systems
+Thus Apr 2, ch. 20, 5th DND Adventure on Sense and Reference, Student Led
 
-Wed Apr 8, ch. 22, Mathematical, physical and cultural struturalism
+Tues Apr 7, ch. 21, Cause and effect inside virtual systems
 
-Mon Apr 13, ch. 23, Virtual Eden?
+Thus Apr 9, ch. 22, Mathematical, physical and cultural structualism
 
-Wed Apr 15, ch. 24, Brains in a Vat
+Tues Apr 14, ch. 23, Virtual Eden?
 
-Mon Apr 20, TBA
+Thus Apr 16, ch. 24, Brains in a Vat
 
-Wed Apr 22, TBA
+Tues Apr 21, TBD
 
-Mon Apr 27, TBA
+Thus Apr 23, TBD
 
-Wed Apr 29, last day of classes, Final Quiz
+Tues Apr 28, TBD
+
+Thus Apr 30, last day of classes, Final Quiz
 
 Paper Due on Day of Final Quiz (Submit on Canvas)
 
