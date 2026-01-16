@@ -63,7 +63,7 @@ Success: Active participation, timely submissions, and attendance are key.
 
 ### Grading Calculation
 
-[Download the Course Rubric Here](./weeks/rubric.qmd)
+[Download the Course Rubric Here](./rubric.qmd)
 
 ***Weekly Reflections:*** Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.
 

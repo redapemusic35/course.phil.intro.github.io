@@ -8,17 +8,6 @@ In this course, we will use David Chalmer's book ***Reality+*** to look at quest
 
 [Download the Syllabus Here:](./weeks/syllabus.qmd)
 
-::: {.callout-important collapse=false}
-
-## 📢 Important
-
-(01/16/2026)
-
-- [🗓️ Week 02 lecture material](/2026_intro/weeks/week02/page.qmd) is now available!
-
-:::
-
-
 # 🧑🏻‍🏫 Syllabus
 
 ::: {.panel-tabset}
