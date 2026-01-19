@@ -106,7 +106,9 @@ Hope to see many of you there—whether for quiet reading, heated game debates, 
 
 Office Hours:
 
-- When: TH 1:00-5:00pm or by appointment
+- When:
+  * Tuesday: 1:00–3:00 PM
+  * Thursday: 1:00–3:00 PM
 - Where: Elizabeth Hall 104
 - How to book: Drop in, email, or book via [Microsoft Bookings](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
@@ -424,3 +426,4 @@ See Class Times Below
 - ⌚ 10:30am - 11:45am
 
 :::
+
