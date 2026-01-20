@@ -8,12 +8,95 @@ In this course, we will use David Chalmer's book ***Reality+*** to look at quest
 
 [Download the Syllabus Here:](./weeks/syllabus.qmd)
 
+## 📢 Important Updates Winter/Spring Semester
+
+::: {layout="[ 0.5, -0.05, 0.45 ]"}
+
+:::: {###MLK}
+
+::: {.callout-important collapse=false}
+
+### MLK Day Holiday
+
+(01/19/2026)
+
+Monday (Martin Luther King Jr. Day) → No classes!
+
+:::
+
+::::
+
+:::: {###Office-hours}
+
+::: {.callout-important collapse=false}
+
+### Updated Office House
+
+I've added more flexibility this semester!
+
+* Tuesday: 1:00–3:00 PM
+* Thursday: 1:00–3:00 PM
+
+Come by anytime during these windows for help, discussion, or just to chat.
+
+:::
+
+::::
+
+:::
+
+## 📢 Weekly Philosophy Hangouts-Join us!
+
+::: {layout="[ 0.5, -0.05, 0.45 ]"}
+
+:::: {###lo-phi}
+
+::: {.callout-important collapse=false}
+
+### Lo-Phi in the Philosophy Lounge
+
+* Time: 2:00–4:00 PM (overlaps with office hours)
+* Location: Elizabeth Hall 104
+* What to expect: A relaxed space to hang out, read philosophy, talk ideas, and do some casual philosophizing with others. Bring your book, your thoughts, or just yourself!
+
+:::
+
+::::
+
+:::: {###TEXM}
+
+::: {.callout-important collapse=false}
+
+### Thursdays: The Experience Machine
+
+* Time: After office hours (1:00–3:00 PM)
+
+What it is: Come play video games with a philosophical twist! We'll explore deep questions raised by gaming.
+
+Some of the questions we'll think about together:
+
+* Is it okay to exploit game mechanics to your advantage?
+* Is sharing secrets outside the game world cheating?
+* Is it wrong to gang up on defenseless players?
+* What exactly makes someone an A$$Hole in a PVP environment?
+* Bonus debate: Is philosophy D&D better than regular D&D?
+ * Get ready for some weird unconventional DND adventures . . .
+
+Gaming with friends is always more fun (and thought-provoking) in a group:
+
+:::
+
+::::
+
+Hope to see many of you there—whether for quiet reading, heated game debates, or just good company! Questions? Drop by office hours. 😊
+
+:::
+
 # 🧑🏻‍🏫 Syllabus
 
 ::: {.panel-tabset}
 
 ## Course Convenor
-
 
 ![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. Reynolds" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}
 **[Reynolds](#)** <br/>
@@ -23,7 +106,9 @@ In this course, we will use David Chalmer's book ***Reality+*** to look at quest
 
 Office Hours:
 
-- When: TH 1:00-5:00pm or by appointment
+- When:
+  * Tuesday: 1:00–3:00 PM
+  * Thursday: 1:00–3:00 PM
 - Where: Elizabeth Hall 104
 - How to book: Drop in, email, or book via [Microsoft Bookings](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
@@ -341,3 +426,4 @@ See Class Times Below
 - ⌚ 10:30am - 11:45am
 
 :::
+
